@@ -1,3 +1,3 @@
-# BertFlix (MERN-MOVIE)
+# MovieMacho (MERN-MOVIE)
 
 Fronted (Client)
